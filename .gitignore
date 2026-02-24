@@ -1,0 +1,17 @@
+# Unreal Engine - Build artifacts
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+
+# User-specific content
+Content/Developers/
+
+# IDE
+.vs/
+.idea/
+*.sln
+
+# OS
+Thumbs.db
+.DS_Store

@@ -1,0 +1,3 @@
+[submodule "Plugins/AnimusExMachina"]
+	path = Plugins/AnimusExMachina
+	url = https://github.com/ArconicLabs/AnimusExMachina.git
