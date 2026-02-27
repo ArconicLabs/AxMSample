@@ -11,6 +11,7 @@ Content/Developers/
 .vs/
 .idea/
 *.sln
+*.DotSettings.user
 
 # OS
 Thumbs.db
